@@ -1,0 +1,29 @@
+Fieldset import options: Import-Einstellungen
+Import type: Importtyp
+Import begin: Erste Zeile
+Submit: Speichern
+Apply: Anwenden
+fieldset import help: Die Grundeinstellungen für den Import
+Mappings: Felder zuweisen
+placeholder mappings: Wert eingeben oder auswählen
+fixed values: Feste Werte
+today: Heutiges Datum
+table values: Werte importieren
+BKR: Bodenklimaraum
+Zwischenfrucht herbstduengung: Zwischenfrucht/Herbstdüngung
+Valid from: Gültig ab
+Nmin: N-Min
+Original id: Ursprüngliche ID
+Imported Values: Importierte Datensätze
+bkr: Bodenklimaraum
+vorfrucht: Vorfrucht
+zwischenfrucht_herbstduengung: Zwischenfrucht/Herbstdüngung
+boden: Bodentyp
+kultur: Kultur
+vorkultur: Vorkultur
+tiefe: Bodentiefe
+valid_from: 'Gültig ab'
+nmin: N-Min
+url: Url
+original_id: Ursprung-Id
+submit: Absenden

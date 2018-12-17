@@ -1,0 +1,3 @@
+delos_nmin_data_base:
+  resource: .
+  type: delos_nmin_dispatch

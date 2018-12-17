@@ -1,0 +1,3 @@
+services:
+  App\Delos\Nmin\BaseBundle\Routing\DelosNminValueTypeLoader:
+    tags: ['routing.loader']

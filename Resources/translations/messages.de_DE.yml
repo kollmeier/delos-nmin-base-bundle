@@ -1,0 +1,12 @@
+delosnminvaluenw: Nordrhein-Westfalen
+delosnminvalueni: Niedersachsen
+delosnminvalueinstance: Instanz
+'land %type%': 'Bundesland %type%'
+'list for %type%': 'Liste für %type%'
+'instance: value for %type%|list for %land%': '__instance: Wert für %type%|Liste für %land%'
+show: Anzeigen
+edit: Bearbeiten
+delete: Löschen
+'import edit': 'Import bearbeiten'
+'import reupload': 'Datei ersetzen'
+'delete import': 'Import Löschen'

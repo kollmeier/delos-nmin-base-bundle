@@ -1,0 +1,10 @@
+
+###> symfony/framework-bundle ###
+/.env.local
+/.env.*.local
+/public/bundles/
+/var/
+/vendor/
+/.idea
+###< symfony/framework-bundle ###
+composer.lock
