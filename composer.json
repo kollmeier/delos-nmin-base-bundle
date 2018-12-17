@@ -20,5 +20,11 @@
     "symfony/serializer": "*",
     "symfony/yaml": "4.2.*",
     "delos/nmin/data-base-bundle": "dev-master"
-  }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@git.delos.biz:CarstenKollmeier/delos-nmin-data-base-bundle.git"
+    }
+  ]
 }
