@@ -6,7 +6,7 @@
  * Time: 22:25
  */
 
-namespace App\Delos\Nmin\BaseBundle\Annotation;
+namespace Delos\Nmin\BaseBundle\Annotation;
 
 use Doctrine\Common\Annotations\Annotation;
 

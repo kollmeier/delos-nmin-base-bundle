@@ -6,7 +6,7 @@
  * Time: 23:59
  */
 
-namespace App\Delos\Nmin\BaseBundle\DependencyInjection;
+namespace Delos\Nmin\BaseBundle\DependencyInjection;
 
 
 use Symfony\Component\Config\FileLocator;
