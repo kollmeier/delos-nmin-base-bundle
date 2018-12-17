@@ -5,7 +5,7 @@
   "license": "proprietary",
   "autoload": {
     "psr-4": {
-      "App\\Delos\\min\\BaseBundle\\": ""
+      "App\\Delos\\Nmin\\BaseBundle\\": ""
     }
   },
   "require": {
