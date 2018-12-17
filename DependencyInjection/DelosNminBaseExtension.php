@@ -6,7 +6,7 @@
  * Time: 23:59
  */
 
-namespace Delos\Nmin\BaseBundle\DependencyInjection;
+namespace App\Delos\Nmin\BaseBundle\DependencyInjection;
 
 
 use Symfony\Component\Config\FileLocator;
@@ -23,6 +23,8 @@ class DelosNminBaseExtension extends Extension
             new FileLocator(__DIR__.'/../Resources/config')
         );
         $loader->load('services.yaml');
+
+        $loader->load('routes.yaml');
 
         return $container;
     }

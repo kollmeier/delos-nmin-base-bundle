@@ -6,7 +6,7 @@
  * Time: 10:46
  */
 
-namespace Delos\Nmin\BaseBundle\Service;
+namespace App\Delos\Nmin\BaseBundle\Service;
 
 
 use App\Delos\Nmin\Data\BaseBundle\Entity\DelosNminValue;

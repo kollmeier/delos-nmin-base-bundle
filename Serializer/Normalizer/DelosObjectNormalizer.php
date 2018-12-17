@@ -6,7 +6,7 @@
  * Time: 06:48
  */
 
-namespace Delos\Nmin\BaseBundle\Serializer\Normalizer;
+namespace App\Delos\Nmin\BaseBundle\Serializer\Normalizer;
 
 
 use Doctrine\Common\Collections\Collection;

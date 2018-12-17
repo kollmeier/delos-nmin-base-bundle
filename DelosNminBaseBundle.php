@@ -6,7 +6,7 @@
  * Time: 11:15
  */
 
-namespace Delos\Nmin\BaseBundle;
+namespace App\Delos\Nmin\BaseBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

@@ -6,7 +6,7 @@
  * Time: 15:03
  */
 
-namespace Delos\Nmin\BaseBundle\DelosNminValueInterface;
+namespace App\Delos\Nmin\BaseBundle\DelosNminValueInterface;
 
 
 interface DelosNminValueInterface

@@ -1,6 +1,6 @@
 <?php
 
-namespace Delos\Nmin\BaseBundle\Controller;
+namespace App\Delos\Nmin\BaseBundle\Controller;
 
 use App\Delos\Nmin\BaseBundle\DelosNminValueInterface\DelosNminValueInterface;
 use App\Delos\Nmin\Data\BaseBundle\Entity\DelosNminValue;

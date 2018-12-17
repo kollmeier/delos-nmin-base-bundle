@@ -1,6 +1,6 @@
 <?php
 
-namespace Delos\Nmin\BaseBundle\Routing;
+namespace App\Delos\Nmin\BaseBundle\Routing;
 
 use App\Delos\Nmin\BaseBundle\Annotation\MapToUrlParameter;
 use App\Delos\Nmin\BaseBundle\DelosNminValueInterface\DelosNminValueInterface;

@@ -6,7 +6,7 @@
  * Time: 11:57
  */
 
-namespace Delos\Nmin\BaseBundle\Service;
+namespace App\Delos\Nmin\BaseBundle\Service;
 
 
 use Symfony\Component\HttpFoundation\Session\SessionInterface;
