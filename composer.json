@@ -18,6 +18,7 @@
     "symfony/orm-pack": "^1.0",
     "symfony/routing": "4.2.*",
     "symfony/serializer": "*",
-    "symfony/yaml": "4.2.*"
+    "symfony/yaml": "4.2.*",
+    "delos/nmin/data/base-bundle": "dev-master"
   }
 }

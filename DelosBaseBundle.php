@@ -10,7 +10,7 @@ namespace App\Delos\Nmin\BaseBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class DelosNminBaseBundle extends Bundle
+class DelosBaseBundle extends Bundle
 {
 
 }
