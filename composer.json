@@ -1,5 +1,5 @@
 {
-  "name": "delos/nmin/base-bundle",
+  "name": "delos/nmin-base-bundle",
   "description": "Basis für Nmin-Installationen",
   "type": "symfony-bundle",
   "license": "proprietary",
