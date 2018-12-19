@@ -1,3 +1,5 @@
 services:
   App\Delos\Nmin\BaseBundle\Routing\DelosNminValueTypeLoader:
     tags: ['routing.loader']
+    arguments:
+      $em: '@doctrine.orm.default_entity_manager'
