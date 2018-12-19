@@ -24,8 +24,6 @@ class DelosNminBaseExtension extends Extension
         );
         $loader->load('services.yaml');
 
-        $loader->load('routes.yaml');
-
         return $container;
     }
 }
